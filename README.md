@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel! 👋
 
-I'm currently a software engineer at Verint Systems working passionate with javascript / Node.js and Vue.js to planning and crafting awesome web apps.
+I'm currently a software engineer at Verint Systems using javascript / Node.js and Vue.js to build awesome web apps.
 
 #### 📫 How to reach me:
 
